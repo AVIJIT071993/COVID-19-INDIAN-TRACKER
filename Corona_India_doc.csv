@@ -1,38 +1,38 @@
-State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths
-Maharashtra,1297,117,72,1108,09/04/2020 12:06:14,MH,162,0,0
-Tamil Nadu,738,21,8,709,08/04/2020 18:10:28,TN,0,0,0
-Delhi,669,21,9,639,08/04/2020 22:20:32,DL,0,0,0
-Telangana,453,45,11,397,08/04/2020 19:00:25,TG,0,0,0
-Rajasthan,430,45,3,382,09/04/2020 15:05:34,RJ,47,0,0
-Kerala,345,84,2,259,08/04/2020 20:15:28,KL,0,0,0
-Uttar Pradesh,361,31,4,326,08/04/2020 19:15:28,UP,0,0,0
-Andhra Pradesh,348,6,3,339,08/04/2020 14:40:25,AP,0,0,0
-Madhya Pradesh,347,25,26,296,09/04/2020 16:35:26,MP,6,0,2
-Karnataka,197,30,6,161,09/04/2020 17:35:25,KA,16,2,1
-Gujarat,241,26,17,198,09/04/2020 11:56:11,GJ,55,1,1
-Haryana,168,32,2,134,09/04/2020 12:51:40,HR,1,0,0
-Jammu and Kashmir,184,6,3,175,09/04/2020 16:56:28,JK,26,0,0
-Punjab,117,14,10,93,09/04/2020 15:05:38,PB,11,0,1
-West Bengal,103,16,5,82,09/04/2020 10:17:04,WB,4,3,0
-Odisha,44,2,1,41,09/04/2020 12:52:24,OR,2,0,0
-Bihar,51,15,1,35,09/04/2020 12:06:17,BR,12,0,0
-Uttarakhand,35,5,0,30,08/04/2020 21:20:26,UT,0,0,0
-Assam,28,0,0,28,08/04/2020 00:04:27,AS,0,0,0
-Chandigarh,18,7,0,11,07/04/2020 22:35:25,CH,0,0,0
-Himachal Pradesh,28,2,2,24,09/04/2020 10:50:40,HP,1,0,0
-Ladakh,14,10,0,4,06/04/2020 23:56:56,LA,0,0,0
-Andaman and Nicobar Islands,11,0,0,11,30/03/2020 11:27:27,AN,0,0,0
-Chhattisgarh,18,9,0,9,09/04/2020 10:50:42,CT,8,0,0
-Goa,7,0,0,7,04/04/2020 09:42:27,GA,0,0,0
-Puducherry,5,1,0,4,07/04/2020 17:24:56,PY,0,0,0
-Jharkhand,13,0,1,12,09/04/2020 10:50:43,JH,9,0,1
-Manipur,2,1,0,1,06/04/2020 22:35:54,MN,0,0,0
-Mizoram,1,0,0,1,26/03/2020 07:19:29,MZ,0,0,0
-Arunachal Pradesh,1,0,0,1,02/04/2020 11:42:31,AR,0,0,0
-Dadra and Nagar Haveli,1,0,0,1,06/04/2020 15:22:25,DN,0,0,0
-Tripura,1,0,0,1,06/04/2020 22:14:41,TR,0,0,0
-Daman and Diu,0,0,0,0,26/03/2020 07:19:29,DD,0,0,0
-Lakshadweep,0,0,0,0,26/03/2020 07:19:29,LD,0,0,0
-Meghalaya,0,0,0,0,26/03/2020 07:19:29,ML,0,0,0
-Nagaland,0,0,0,0,26/03/2020 07:19:29,NL,0,0,0
-Sikkim,0,0,0,0,26/03/2020 07:19:29,SK,0,0,0
+State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
+Maharashtra,2684,259,178,2247,14/04/2020 23:10:25,MH,0,0,0,
+Delhi,1561,31,30,1500,14/04/2020 22:11:17,DL,0,0,0,
+Tamil Nadu,1204,81,12,1111,14/04/2020 18:35:41,TN,0,0,0,
+Rajasthan,1034,147,11,876,15/04/2020 13:50:25,RJ,29,0,0,
+Madhya Pradesh,741,64,53,624,14/04/2020 23:20:27,MP,0,0,0,
+Uttar Pradesh,660,50,8,602,14/04/2020 21:00:25,UP,0,0,0,
+Gujarat,695,59,30,606,15/04/2020 13:10:27,GJ,45,0,2,
+Telangana,644,110,18,516,14/04/2020 22:35:25,TG,0,0,0,
+Andhra Pradesh,502,16,11,475,15/04/2020 12:51:21,AP,18,0,0,
+Kerala,386,211,2,173,14/04/2020 18:10:28,KL,0,0,0,
+Jammu and Kashmir,278,30,4,244,14/04/2020 19:50:25,JK,0,0,0,
+Karnataka,277,71,10,196,15/04/2020 13:38:59,KA,17,0,0,
+Haryana,198,55,3,140,14/04/2020 18:10:31,HR,0,0,0,"14 recovered Italian tourists included in tally, 1 death in Ambala unaccounted."
+West Bengal,213,37,7,169,15/04/2020 10:55:25,WB,23,1,0,
+Punjab,184,27,13,144,15/04/2020 01:10:28,PB,0,0,0,"As WB state bulletin only reports the number of active cases, the numbers for WB are currently updated according to https://www.mohfw.gov.in"
+Bihar,70,29,1,40,15/04/2020 13:39:51,BR,4,0,0,
+Odisha,60,18,1,41,14/04/2020 18:10:33,OR,0,0,0,
+Uttarakhand,37,9,0,28,14/04/2020 20:40:25,UT,0,0,0,
+Chhattisgarh,33,13,0,20,15/04/2020 11:00:25,CT,0,0,0,Death of Tibetan refugee included
+Himachal Pradesh,33,13,2,18,15/04/2020 11:20:26,HP,0,0,0,
+Assam,32,0,1,31,14/04/2020 23:05:31,AS,0,0,0,
+Jharkhand,27,0,2,25,13/04/2020 20:50:25,JH,0,0,0,
+Chandigarh,21,7,0,14,10/04/2020 18:10:27,CH,0,0,0,
+Ladakh,17,12,0,5,13/04/2020 21:15:27,LA,0,0,0,
+Andaman and Nicobar Islands,11,10,0,1,30/03/2020 11:27:27,AN,0,0,0,
+Goa,7,5,0,2,11/04/2020 23:26:44,GA,0,0,0,
+Puducherry,7,1,0,6,10/04/2020 17:50:26,PY,0,0,0,
+Manipur,2,1,0,1,06/04/2020 22:35:54,MN,0,0,0,
+Tripura,2,0,0,2,10/04/2020 20:00:27,TR,0,0,0,
+Mizoram,1,0,0,1,26/03/2020 07:19:29,MZ,0,0,0,
+Arunachal Pradesh,1,0,0,1,02/04/2020 11:42:31,AR,0,0,0,
+Dadra and Nagar Haveli,1,0,0,1,06/04/2020 15:22:25,DN,0,0,0,
+Nagaland,1,0,0,1,12/04/2020 23:35:29,NL,0,0,0,
+Meghalaya,1,0,1,0,15/04/2020 10:45:25,ML,0,0,1,
+Daman and Diu,0,0,0,0,26/03/2020 07:19:29,DD,0,0,0,
+Lakshadweep,0,0,0,0,26/03/2020 07:19:29,LD,0,0,0,
+Sikkim,0,0,0,0,26/03/2020 07:19:29,SK,0,0,0,

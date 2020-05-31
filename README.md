@@ -34,7 +34,7 @@ The data in the google sheets is updated from: https://api.covid19india.org/csv/
 
 
 
-The link for the tracker: https://public.tableau.com/views/Corona_India/Dashboard1?:display_count=y&:toolbar=n&:origin=viz_share_link
+**The link for the tracker:** https://public.tableau.com/views/Corona_India/Dashboard1?:display_count=y&:toolbar=n&:origin=viz_share_link
 
 
 ![](images/image1.png)

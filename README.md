@@ -1,6 +1,6 @@
 # COVID-19-INDIAN-TRACKER
 
-This is a corona virus tracker for India. It includes state wise number of corona cases, daily number of corona cases reported, people recovered, people died and total number of corona test done per day. It also forecast the possible no. of cases for the next few days automatically. The tracker is made on tableau and is published on tableau server. The tableau dashboard is updated from google sheets. 
+This is a corona virus tracker for India. It includes state wise number of corona cases, daily number of corona cases reported, people recovered, people died and total number of corona test done per day. **It also forecast the possible no. of confirmed cases for the next few days automatically.** The tracker is made on tableau and is published on tableau server. The tableau dashboard is updated from google sheets. 
 
 **The data in the google sheets is updated from:** https://api.covid19india.org/csv/ with the help of api.
 
@@ -12,7 +12,7 @@ This is a corona virus tracker for India. It includes state wise number of coron
 
 
 
-![](images/Image7.png)
+![](images/Image8.png)
 
 
 

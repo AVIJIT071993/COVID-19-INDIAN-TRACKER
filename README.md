@@ -46,5 +46,9 @@ This is a corona virus tracker for India. It includes state wise number of coron
 
 
 
+Tabular form of state wise confrimed, Active, Recovered and Deceased data:
+
+
+![](images/Image7.png)
 
 

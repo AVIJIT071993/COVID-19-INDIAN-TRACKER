@@ -59,3 +59,8 @@ This is a corona virus tracker for India. It includes state wise number of coron
 ![](images/Image10.PNG)
 
 
+5. ** Covid-19 World Data: ** It gives you data regarding the number of corona cases in different parts of the world and the top 10 affected countries due to corona.
+
+![](images/Image11.PNG)
+
+![](images/Image12.PNG)

@@ -8,7 +8,10 @@ This is a corona virus tracker for India. It includes state wise number of coron
 **The data in the google sheets is updated from:** https://api.covid19india.org/documentation/csv/ with the help of api.
 
 
+
 ![](images/Image1.png)
+ 
+
 
 
 1. **state_wise:**	https://api.covid19india.org/csv/latest/state_wise.csv	The current statewise situation. Clicking on any state or union territory will give you all the data related to it. As you can see in the pic.

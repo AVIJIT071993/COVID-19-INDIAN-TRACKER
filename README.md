@@ -5,7 +5,7 @@ This is a corona virus tracker for India. It includes state wise number of coron
 **The link for the tracker:** https://public.tableau.com/views/Corona_India/Dashboard1?:display_count=y&:toolbar=n&:origin=viz_share_link
 
 
-**The data in the google sheets is updated from:** https://api.covid19india.org/csv/ with the help of api.
+**The data in the google sheets is updated from:** https://api.covid19india.org/documentation/csv/ with the help of api.
 
 
 ![](images/Image1.png)
@@ -14,9 +14,13 @@ This is a corona virus tracker for India. It includes state wise number of coron
 1. **state_wise:**	https://api.covid19india.org/csv/latest/state_wise.csv	The current statewise situation. Clicking on any state or union territory will give you all the data related to it. As you can see in the pic.
 
 
-
 ![](images/Image2.png)
 
+
+![](images/Image3.png)
+
+
+![](images/Image4.png)
 
 
 2. **case_time_series:**	https://api.covid19india.org/csv/latest/case_time_series.csv	Time series of Confirmed, Recovered and Deceased cases. The dark orange dots show the actual no. of confirmed case on that particular date and the light orange shows the estimate of the no. of confirmed cases next few days.
@@ -26,15 +30,11 @@ This is a corona virus tracker for India. It includes state wise number of coron
 
 
 
-![](images/Image3.png)
+![](images/Image6.png)
 
 
 
-![](images/Image4.png)
-
-
-
-![](images/Image5.png)
+![](images/Image7.png)
 
 
 
@@ -42,13 +42,16 @@ This is a corona virus tracker for India. It includes state wise number of coron
 
 
 
-![](images/Image6.png)
+![](images/Image8.png)
+
+
+![](images/Image9.png)
 
 
 
-**Tabular form of state wise Confrimed, Active, Recovered and Death data:**
+4. **Tabular form of state wise Confrimed, Active, Recovered and Death data:**
 
 
-![](images/Image7.png)
+![](images/Image10.png)
 
 

@@ -63,4 +63,6 @@ This is a corona virus tracker for India. It includes state wise number of coron
 
 ![](images/Image11.PNG)
 
+![](images/Image13.png)
+
 ![](images/Image12.PNG)

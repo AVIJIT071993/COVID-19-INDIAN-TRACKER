@@ -29,11 +29,14 @@ This is a corona virus tracker for India. It includes state wise number of coron
 2. **case_time_series:**	https://api.covid19india.org/csv/latest/case_time_series.csv	Time series of Confirmed, Recovered and Deceased cases. The dark orange dots show the actual no. of confirmed case on that particular date and the light orange shows the estimate of the no. of confirmed cases next few days.
 
 
+
 ![](images/Image5.png)
 
 
 
+
 ![](images/Image6.png)
+
 
 
 
@@ -46,6 +49,7 @@ This is a corona virus tracker for India. It includes state wise number of coron
 
 
 ![](images/Image8.png)
+
 
 
 ![](images/Image9.png)

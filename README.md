@@ -9,7 +9,7 @@ This is a corona virus tracker for India. It includes state wise number of coron
 
 
 
-![](images/Image1.png)
+![](images/Image2.png)
  
 
 

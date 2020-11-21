@@ -47,13 +47,10 @@ This is a corona virus tracker for India. It includes state wise number of coron
 3. **tested_numbers_icmr_data:**	https://api.covid19india.org/csv/latest/tested_numbers_icmr_data.csv	Number of tests reported by ICMR.
 
 
-
 ![](images/Image8.png)
 
 
-
 ![](images/Image9.png)
-
 
 
 4. **Tabular form of state wise Confrimed, Active, Recovered and Death data:**
